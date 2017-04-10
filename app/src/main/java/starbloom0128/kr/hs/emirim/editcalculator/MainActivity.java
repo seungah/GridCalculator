@@ -57,8 +57,6 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View view) {
 
-
-
         }
     };
     View.OnTouchListener editHandler=new View.OnTouchListener(){
